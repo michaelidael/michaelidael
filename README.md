@@ -7,7 +7,7 @@
 
 Projects in C Languages:
 
-[Database Projects]([url](https://github.com/michaelidael/GroceryStoreDatabase/)): (Huge grocery store list made from scratch for a project in Sql). 
+[Database Projects](https://github.com/michaelidael/GroceryStoreDatabase/): (Huge grocery store list made from scratch for a project in Sql). 
 
 <!---
 michaelidael/michaelidael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
