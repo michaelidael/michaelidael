@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @michaelidael, a recent graduate as of July 30th, 2023.
+- 👋 Hi, I’m @michaelidael, a recent graduate as of July 30th, 2023. 🇭🇳 🇨🇺
 - Here is my academic journey as well as some side projects that I have worked on or am working on. 
 - 👀 I’m interested in learning everything and being a ✨sponge✨ 
 - 🌱 I’m currently learning anything and everything that has to do with programming, databases, cloud, and security. 
 - 📫 Add me on [LinkedIn](https://www.linkedin.com/in/michaelisoto/)
-  Here are some nifty links that help you navigate through some of my projects!
 
 Projects in C Languages:
-
+[C/C++ Projects](https://github.com/michaelidael/C-Projects) : These are mostly Data structures, and random fun little projects that I had the liberty of choosing/creating. 
 [Database Projects](https://github.com/michaelidael/GroceryStoreDatabase/): (Huge grocery store list made from scratch for a project in Sql). 
 
 <!---
