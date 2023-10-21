@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelidael, a recent Information Technology graduate as of July 30th, 2023.👨‍💻
 - Here is my academic journey as well as some side projects that I have worked on or am working on. 
-- 👀 I’m interested in learning all types of coding languages, safe practices, most importantly being a 🧽 
+- 👀 I’m interested in learning all types of coding languages, safe practices, most importantly being a sponge🧽 
 - 🌱 I’m currently learning anything and everything that has to do with programming, databases, cloud, and security. 
 - 📫 Add me on [LinkedIn](https://www.linkedin.com/in/michaelisoto/)
 - 🤓Projects: 
