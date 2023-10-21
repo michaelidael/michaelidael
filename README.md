@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning everything and being a ✨sponge✨ 
 - 🌱 I’m currently learning anything and everything that has to do with programming, databases, cloud, and security. 
 - 📫 Add me on [LinkedIn](https://www.linkedin.com/in/michaelisoto/)
-- Projects in C Languages:
+- 🤓Projects: 
 - 💻 [C/C++ Projects](https://github.com/michaelidael/C-Projects) : These are mostly Data structures, and random fun little projects that I had the liberty of choosing/creating.
 - 🖱️[Database Projects](https://github.com/michaelidael/GroceryStoreDatabase/): (Huge grocery store list made from scratch for a project in Sql).
 - 🦁[Capstone IoT Device Hospital Project.](https://github.com/michaelidael/C-Projects/blob/main/FinalReport.docx): Design and concept capstone project from design to pitching to a Senior Level staff.
