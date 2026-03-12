@@ -3,6 +3,7 @@
 - 👀 I’m interested in learning all types of coding languages, safe practices, most importantly being a sponge🧽 
 - 🌱 I’m currently learning anything and everything that has to do with development, data, cloud, and cybersecurity. 
 - 📫 Add me on [LinkedIn](https://www.linkedin.com/in/michaelisoto/)
+- 💻 Check out my [website](https://www.michaelisoto.com/)
 - 🤓Projects: 
 - 💻 [C/C++ Projects](https://github.com/michaelidael/C-Projects) : These are mostly Data structures, and random fun little projects that I had the liberty of choosing/creating.
 - 🖱️[Database Projects](https://github.com/michaelidael/GroceryStoreDatabase/): (Huge grocery store list made from scratch for a project in Sql).
